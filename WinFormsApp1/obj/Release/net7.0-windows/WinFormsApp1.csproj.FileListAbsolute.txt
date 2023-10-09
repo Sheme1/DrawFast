@@ -1,0 +1,17 @@
+D:\st\2курс\оаип\Курсовая\WinFormsApp1\WinFormsApp1\bin\Release\net7.0-windows\WinFormsApp1.exe
+D:\st\2курс\оаип\Курсовая\WinFormsApp1\WinFormsApp1\bin\Release\net7.0-windows\WinFormsApp1.deps.json
+D:\st\2курс\оаип\Курсовая\WinFormsApp1\WinFormsApp1\bin\Release\net7.0-windows\WinFormsApp1.runtimeconfig.json
+D:\st\2курс\оаип\Курсовая\WinFormsApp1\WinFormsApp1\bin\Release\net7.0-windows\WinFormsApp1.dll
+D:\st\2курс\оаип\Курсовая\WinFormsApp1\WinFormsApp1\bin\Release\net7.0-windows\WinFormsApp1.pdb
+D:\st\2курс\оаип\Курсовая\WinFormsApp1\WinFormsApp1\obj\Release\net7.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\st\2курс\оаип\Курсовая\WinFormsApp1\WinFormsApp1\obj\Release\net7.0-windows\WinFormsApp1.Form1.resources
+D:\st\2курс\оаип\Курсовая\WinFormsApp1\WinFormsApp1\obj\Release\net7.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\st\2курс\оаип\Курсовая\WinFormsApp1\WinFormsApp1\obj\Release\net7.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\st\2курс\оаип\Курсовая\WinFormsApp1\WinFormsApp1\obj\Release\net7.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\st\2курс\оаип\Курсовая\WinFormsApp1\WinFormsApp1\obj\Release\net7.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\st\2курс\оаип\Курсовая\WinFormsApp1\WinFormsApp1\obj\Release\net7.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\st\2курс\оаип\Курсовая\WinFormsApp1\WinFormsApp1\obj\Release\net7.0-windows\WinFormsApp1.dll
+D:\st\2курс\оаип\Курсовая\WinFormsApp1\WinFormsApp1\obj\Release\net7.0-windows\refint\WinFormsApp1.dll
+D:\st\2курс\оаип\Курсовая\WinFormsApp1\WinFormsApp1\obj\Release\net7.0-windows\WinFormsApp1.pdb
+D:\st\2курс\оаип\Курсовая\WinFormsApp1\WinFormsApp1\obj\Release\net7.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\st\2курс\оаип\Курсовая\WinFormsApp1\WinFormsApp1\obj\Release\net7.0-windows\ref\WinFormsApp1.dll

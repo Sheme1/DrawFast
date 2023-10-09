@@ -1,0 +1,6 @@
+D:\st\2курс\оаип\Курсовая\WinFormsApp1.exe
+D:\st\2курс\оаип\Курсовая\WinFormsApp1.dll
+D:\st\2курс\оаип\Курсовая\WinFormsApp1.deps.json
+D:\st\2курс\оаип\Курсовая\WinFormsApp1.runtimeconfig.json
+D:\st\2курс\оаип\Курсовая\WinFormsApp1.pdb
+D:\st\2курс\оаип\Курсовая\SharpDX.dll
